@@ -1,7 +1,7 @@
 inputs = int(input("輸入總和 :"))
 
 g = 0 
-for i in range(13): #解法一
+for i in range(13): 
     g = g+1
     y = 0
     for i in range(13):
